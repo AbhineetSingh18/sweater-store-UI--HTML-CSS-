@@ -2,10 +2,12 @@
     font-family: hnd;
     src: url(./HelveticaNowDisplay-Medium.ttf);
 }
+
 @font-face {
     font-family: hnditalic;
     src: url(./HelveticaNowDisplay-LightIta.ttf);
 }
+
 *{
     padding: 0;
     margin: 0;
